@@ -1,2 +1,2 @@
 # vue_demo
-这是一个关于vue的demo集合
+这是一个关于vue的demo资料
